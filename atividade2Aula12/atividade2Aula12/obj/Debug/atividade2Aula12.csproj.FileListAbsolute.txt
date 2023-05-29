@@ -1,0 +1,8 @@
+C:\Users\letic\Desktop\fatec\Atividades\Algoritmo\Atividades\atividade2Aula12\atividade2Aula12\bin\Debug\atividade2Aula12.exe.config
+C:\Users\letic\Desktop\fatec\Atividades\Algoritmo\Atividades\atividade2Aula12\atividade2Aula12\bin\Debug\atividade2Aula12.exe
+C:\Users\letic\Desktop\fatec\Atividades\Algoritmo\Atividades\atividade2Aula12\atividade2Aula12\bin\Debug\atividade2Aula12.pdb
+C:\Users\letic\Desktop\fatec\Atividades\Algoritmo\Atividades\atividade2Aula12\atividade2Aula12\obj\Debug\atividade2Aula12.csproj.AssemblyReference.cache
+C:\Users\letic\Desktop\fatec\Atividades\Algoritmo\Atividades\atividade2Aula12\atividade2Aula12\obj\Debug\atividade2Aula12.csproj.SuggestedBindingRedirects.cache
+C:\Users\letic\Desktop\fatec\Atividades\Algoritmo\Atividades\atividade2Aula12\atividade2Aula12\obj\Debug\atividade2Aula12.csproj.CoreCompileInputs.cache
+C:\Users\letic\Desktop\fatec\Atividades\Algoritmo\Atividades\atividade2Aula12\atividade2Aula12\obj\Debug\atividade2Aula12.exe
+C:\Users\letic\Desktop\fatec\Atividades\Algoritmo\Atividades\atividade2Aula12\atividade2Aula12\obj\Debug\atividade2Aula12.pdb
