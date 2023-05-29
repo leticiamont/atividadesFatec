@@ -62,8 +62,6 @@ namespace atividade2Aula12
                                                 poltronas2[i, j] = 1;
                                                 Console.WriteLine("a poltrona " + n_ocupar + " foi Ocupada.");
 
-
-
                                             }
                                         }
                                         break;
